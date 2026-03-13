@@ -4,7 +4,7 @@
 using namespace std;
  
 int main(){
-    float a, b, c;
+    float a, b, c;//Инизиализация переменных
 
     cout<<"Введите длину первой стороны треугольника: ";
     cin>>a;
