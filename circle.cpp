@@ -1,7 +1,7 @@
 #include <iostream>
  
 using namespace std;
- 
+//Добавим констату Пи 
 const double PI = 3.14159265358979323846;
  
 //Функция вычисления длины окружности
