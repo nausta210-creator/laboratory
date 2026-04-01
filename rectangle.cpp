@@ -20,7 +20,6 @@ double diagonal(double a, double b) {
     return D;
 }
 
-
 //Основная программа 
 int main() {
     setlocale(LC_ALL, "ru");
