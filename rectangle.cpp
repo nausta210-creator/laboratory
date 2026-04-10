@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cmath>    
 using namespace std;
-
+//Программа для прямоугольника
 //Ф-ия вычисления периметра
 double perimeter(double a, double b) {
     double P = a * 2 + b * 2;
